@@ -1,0 +1,4 @@
+.DS_Store
+neovim/tmp/
+neovim/plugin/
+neovim/plugged/
